@@ -20,7 +20,7 @@ while True:
             if (ar<0 or br<0):
                 raise("Negative operands not accepted")
 
-        print("Now enter an arithmaetic operator among these:\n'+'\n'-'\n'*'\n'/'\n")
+        print("Now enter an arithmaetic operator among these:\n'+'\n'-'\n'*'\n'/'")
         ar_op = input("enter the arithmetic operator\n")
 
         
