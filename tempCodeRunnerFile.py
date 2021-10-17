@@ -1,0 +1,6 @@
+print("Welcome to Srijan's Calculator")
+# print("What kind of numbers do you want to deal with?")
+# print("1.Real Numbers")
+# print("2.Complex Numbers")
+# choice = int(input("Enter 1 for Real and 2 for Complex\n"))
+# print(f"Your choice is {choice}")
